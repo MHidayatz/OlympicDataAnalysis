@@ -5,7 +5,6 @@ This project aims to explore, analyze and visualize the vast and rich world of O
 ## Repository Link
 
 The repository for this project can be found at: [OlympicDataAnalysis](https://github.com/MHidayatz/OlympicDataAnalysis)
-PowerBI file is found at [OlympicDataAnalysis_PowerBI_Report](https://app.powerbi.com/view?r=eyJrIjoiMTY5ZjNiNjktYjMwZS00ZjMzLTk0MGEtM2U4NzRkZjEzYmExIiwidCI6IjhhMDZmZWZlLTBmNGQtNGU3YS05NzU0LTFhZmE1MWI5MmQyMCIsImMiOjEwfQ%3D%3D)
 
 ## Project Components
 
@@ -13,7 +12,7 @@ PowerBI file is found at [OlympicDataAnalysis_PowerBI_Report](https://app.powerb
 
 2. **Python**: Python, along with libraries such as Pandas and sqlalchemy, is used for exploring the data and carrying out data analysis tasks. This includes data cleaning, transformation, and statistical analysis.
 
-3. **PowerBI**: PowerBI is used for data visualization, allowing us to create dynamic and interactive visual representations of the data. This provides a more intuitive understanding of the data and the insights derived from it.
+3. **PowerBI**: PowerBI is used for data visualization, allowing us to create dynamic and interactive visual representations of the data. This provides a more intuitive understanding of the data and the insights derived from it. You can access the PowerBI report [here](https://app.powerbi.com/view?r=eyJrIjoiMTY5ZjNiNjktYjMwZS00ZjMzLTk0MGEtM2U4NzRkZjEzYmExIiwidCI6IjhhMDZmZWZlLTBmNGQtNGU3YS05NzU0LTFhZmE1MWI5MmQyMCIsImMiOjEwfQ%3D%3D).
 
 ## Getting Started
 

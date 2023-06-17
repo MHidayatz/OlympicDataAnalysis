@@ -5,6 +5,7 @@ This project aims to explore, analyze and visualize the vast and rich world of O
 ## Repository Link
 
 The repository for this project can be found at: [OlympicDataAnalysis](https://github.com/MHidayatz/OlympicDataAnalysis)
+PowerBI file is found at [OlympicDataAnalysis_PowerBI_Report](https://app.powerbi.com/view?r=eyJrIjoiMTY5ZjNiNjktYjMwZS00ZjMzLTk0MGEtM2U4NzRkZjEzYmExIiwidCI6IjhhMDZmZWZlLTBmNGQtNGU3YS05NzU0LTFhZmE1MWI5MmQyMCIsImMiOjEwfQ%3D%3D)
 
 ## Project Components
 

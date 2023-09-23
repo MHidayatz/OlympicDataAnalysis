@@ -1,6 +1,6 @@
 # Olympic Data Analysis
 
-This project aims to explore, analyze and visualize the vast and rich world of Olympic data. It utilizes PostgreSQL for data storage, Python for data exploration, and PowerBI for visualization.
+This project aims to explore, analyze and visualize the vast and rich world of Olympic data. It utilizes PostgreSQL for data storage, Python for data exploration, and PowerBI for visualizations.
 
 ## Repository Link
 
